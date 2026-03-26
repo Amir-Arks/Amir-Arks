@@ -1,10 +1,10 @@
-<!-- ======================= HEADER ======================= -->
+<!-- ======================= MATRIX HEADER ======================= -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=750&lines=Initializing+Cyber+System...;Access+Granted+🔓;Amir+Sheikh;Ethical+Hacker+%7C+Cybersecurity;Network+Security+Enthusiast;Stay+Hungry+Stay+Dangerous" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Booting+Cyber+System...;Access+Granted+🔓;Amir+Sheikh;Ethical+Hacker+%7C+Cybersecurity+Operator;Network+Security+%7C+Red+Team+Mindset;Welcome+to+the+Dark+Side" />
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100%" />
 </p>
 
 ---
@@ -13,50 +13,26 @@
 
 ```bash
 Name: Amir Sheikh
-Role: Aspiring Cybersecurity Professional
-Specialization: Ethical Hacking | Network Security
+Alias: root@amir
+Role: Cybersecurity Learner / Ethical Hacker
+Focus: Network Security | Exploitation | Recon
 Environment: Kali Linux
-Mindset: Offensive + Defensive Security
-💫 About Me
-🔐 Passionate about Cybersecurity & Ethical Hacking
-I focus on building real-world security skills through hands-on labs, attack simulations, and practical tools.
-⚡ Current Operations
-Bash
-Copy code
-> Recon & Network Analysis
-> Practicing MITM & Packet Inspection
-> Learning Exploitation Techniques
-> Building Python Automation Scripts
-🧠 Cybersecurity Arsenal
-�
-￼ ￼ ￼ ￼ ￼ 
+Mindset: Red Team ⚔️ + Blue Team 🛡️
 
-💻 Tech Stack
-�
-￼ 
+System Status
+[✔] Recon Skills: Loading...
+[✔] Network Analysis: Active
+[✔] Exploitation: Learning Phase
+[✔] Python Automation: In Progress
 
-🌐 Connect With Me
-�
-￼ ￼ 
 
-📊 System Stats
-�
-￼ ￼ 
 
-￼ 
+Current Operations
 
-�
-🧠 Hacker Mindset
-Bash
-Copy code
-> Think like attacker ⚔️
-> Defend like engineer 🛡️
-> Break → Understand → Secure 🔐
-> Consistency beats talent 🚀
-👁️ Visitors
-�
-￼ 
+> Performing Network Reconnaissance
+> Packet Analysis using Wireshark
+> MITM Attack Simulations
+> Learning Web Exploitation (Burp Suite)
+> Writing Automation Scripts (Python)
 
-�
-￼ 
-```
+
