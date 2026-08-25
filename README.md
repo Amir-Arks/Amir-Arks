@@ -40,20 +40,7 @@ My approach is based on hands-on learning, real-world simulations, and understan
 
 ---
 
-## 📁 Projects
-
-### 🔐 MITM Attack Simulation
-- Conducted Man-in-the-Middle attack using Bettercap  
-- Captured and analyzed packets using Wireshark  
-- Studied real-time network behavior  
-
-### 📡 Network Traffic Analysis
-- Performed packet inspection and protocol analysis  
-- Identified anomalies and suspicious traffic  
-
-### ⚙️ Python Security Scripts
-- Developed basic scripts for automation and scanning  
-- Exploring offensive and defensive use cases  
+  
 
 ---
 
